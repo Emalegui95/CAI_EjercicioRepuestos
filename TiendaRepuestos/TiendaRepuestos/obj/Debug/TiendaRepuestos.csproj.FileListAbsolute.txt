@@ -1,0 +1,7 @@
+C:\Users\RQ433QM\Source\Repos\TiendaRepuestos\TiendaRepuestos\bin\Debug\TiendaRepuestos.exe.config
+C:\Users\RQ433QM\Source\Repos\TiendaRepuestos\TiendaRepuestos\bin\Debug\TiendaRepuestos.exe
+C:\Users\RQ433QM\Source\Repos\TiendaRepuestos\TiendaRepuestos\bin\Debug\TiendaRepuestos.pdb
+C:\Users\RQ433QM\Source\Repos\TiendaRepuestos\TiendaRepuestos\obj\Debug\TiendaRepuestos.csprojAssemblyReference.cache
+C:\Users\RQ433QM\Source\Repos\TiendaRepuestos\TiendaRepuestos\obj\Debug\TiendaRepuestos.csproj.CoreCompileInputs.cache
+C:\Users\RQ433QM\Source\Repos\TiendaRepuestos\TiendaRepuestos\obj\Debug\TiendaRepuestos.exe
+C:\Users\RQ433QM\Source\Repos\TiendaRepuestos\TiendaRepuestos\obj\Debug\TiendaRepuestos.pdb
